@@ -1,0 +1,132 @@
+{
+    "tomate":{
+        "quantidade": 100,
+        "preco_uni": 0.50,
+        "local": "Corredor A Prateleira 2"
+    },
+    "melancia":{
+        "quantidade": 40,
+        "preco_uni": 7.50,
+        "local": "Corredor B Prateleira 1"
+    },
+    "bolacha":{
+        "quantidade": 90,
+        "preco_uni": 2.50,
+        "local": "Corredor C Prateleira 2"
+    },
+    "arroz":{
+        "quantidade": 89,
+        "preco_uni": 4.00,
+        "local": "Corredor D Prateleira 3"
+    },
+    "feijão":{
+        "quantidade": 50,
+        "preco_uni": 9.90,
+        "local": "Corredor E Prateleira 1"
+    },
+    "macarrão":{
+        "quantidade": 78,
+        "preco_uni": 3.50,
+        "local": "Corredor F Prateleira 3"
+    },
+    "leite":{
+        "quantidade": 120,
+        "preco_uni": 2.99,
+        "local": "Corredor B Prateleira 3"
+    },
+    "manteiga":{
+        "quantidade": 50,
+        "preco_uni": 5.80,
+        "local": "Corredor C Prateleira 4"
+    },
+    "queijo":{
+        "quantidade": 70,
+        "preco_uni": 6.50,
+        "local": "Corredor A Prateleira 5"
+    },
+    "iogurte":{
+        "quantidade": 80,
+        "preco_uni": 2.80,
+        "local": "Corredor A Prateleira 2"
+    },
+    "pão":{
+        "quantidade": 120,
+        "preco_uni": 3.00,
+        "local": "Corredor B Prateleira 6"
+    },
+    "cebola":{
+        "quantidade": 60,
+        "preco_uni": 1.50,
+        "local": "Corredor E Prateleira 7"
+    },
+    "alho":{
+        "quantidade": 30,
+        "preco_uni": 2.00,
+        "local": "Corredor F Prateleira 9"
+    },
+    "batata":{
+        "quantidade": 80,
+        "preco_uni": 2.00,
+        "local": "Corredor F Prateleira 2"
+    },
+    "cenoura":{
+        "quantidade": 50,
+        "preco_uni": 1.80,
+        "local": "Corredor B Prateleira 3"
+    },
+    "abóbora":{
+        "quantidade": 20,
+        "preco_uni": 2.50,
+        "local": "Corredor C Prateleira 4"
+    },
+    "limão":{
+        "quantidade": 40,
+        "preco_uni": 1.00,
+        "local": "Corredor C Prateleira 4"
+    },
+    "laranja":{
+        "quantidade": 60,
+        "preco_uni": 1.20,
+        "local": "Corredor D Prateleira 5"
+    },
+    "maçã":{
+        "quantidade": 60,
+        "preco_uni": 1.20,
+        "local": "Corredor D Prateleira 6"
+      },
+      "abacate":{
+        "quantidade": 30,
+        "preco_uni": 3.50,
+        "local": "Corredor F Prateleira 7"
+      },
+      "uva":{
+        "quantidade": 70,
+        "preco_uni": 2.00,
+        "local": "Corredor A Prateleira 2"
+      },
+    "salsicha":{
+        "quantidade": 25,
+        "preco_uni": 2.50,
+        "local": "Corredor C Prateleira 4"
+    },
+    "café":{
+        "quantidade": 30,
+        "preco_uni": 7.50,
+        "local": "Corredor B Prateleira 3"
+    },
+    "biscoito":{
+        "quantidade": 30,
+        "preco_uni": 4.99,
+        "local": "Corredor D Prateleira 5"
+    },
+    "ketchup":{
+        "quantidade": 10,
+        "preco_uni": 7.50,
+        "local": "Corredor F Prateleira 6"
+    },
+    "chocolate":{
+        "quantidade": 10,
+        "preco_uni": 7.50,
+        "local": "Corredor E Prateleira 7"
+    }
+}
